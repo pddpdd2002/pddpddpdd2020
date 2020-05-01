@@ -1,0 +1,15 @@
+<h2>My favorit food</h2>
+<main>
+  <p>Click here to view more <a href="#"> food</a>.</p>
+
+  <a href="#"><img src="https://www.in-n-out.com/Frontend-Assembly/Telerik.Sitefinity.Frontend/content/images/homepage/double-double.png?package=INNOUT" alt="In&Out Burger"></a>
+
+  <p>Things I love:</p>
+  <ul>
+    <li>In and Out bugger</li>
+    <li>Russian borscht</li>
+    <li>Stewed beef</li>
+  </ul>
+
+  <input type="text">
+</main>
